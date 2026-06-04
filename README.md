@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
 
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=%C3%81lvaro%20Hortelano%20Fern%C3%A1ndez&fontSize=42&fontColor=0D0D0D&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DevOps%20Enthusiast&descSize=16&descAlignY=58&descColor=0D0D0D" />
@@ -19,9 +19,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-C%C3%B3rdoba%2C%20Espa%C3%B1a-00FF41?style=for-the-badge&logo=googlemaps&logoColor=00FF41&labelColor=0D0D0D" />
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=alvarohortelanofernandez&color=00FF41&style=for-the-badge&label=VISITAS+AL+PERFIL" />
+<br/>
 
 </div>
 
@@ -106,7 +104,7 @@ Actualmente ampliando conocimientos en **Python** y arquitecturas cloud, buscand
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/alvarohortelanofernandez">
+        <a href="https://github.com/alvarohortelanofernandez/relance">
           <img src="https://img.shields.io/badge/Ver%20en%20GitHub-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
@@ -129,22 +127,14 @@ Actualmente ampliando conocimientos en **Python** y arquitecturas cloud, buscand
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarohortelanofernandez&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00FF41&title_color=00FF41&icon_color=00FF41&bg_color=0D0D0D&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alvarohortelanofernandez&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00FF41&title_color=00FF41&icon_color=00FF41&bg_color=0D0D0D&text_color=ffffff" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarohortelanofernandez&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00FF41&title_color=00FF41&bg_color=0D0D0D&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alvarohortelanofernandez&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00FF41&title_color=00FF41&bg_color=0D0D0D&text_color=ffffff" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alvarohortelanofernandez&theme=chartreuse-dark&border=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&background=0D0D0D" />
+<img src="https://streak-stats.demolab.com/?user=alvarohortelanofernandez&theme=chartreuse-dark&border=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&background=0D0D0D" />
 
-</div>
-
----
-
-## Actividad Reciente
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvarohortelanofernandez&bg_color=0D0D0D&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=00FF4120&border_color=00FF41&title_color=00FF41" />
 </div>
 
 ---
@@ -154,4 +144,3 @@ Actualmente ampliando conocimientos en **Python** y arquitecturas cloud, buscand
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer&text=Disponible%20para%20colaborar&fontSize=20&fontColor=0D0D0D&fontAlignY=65" />
 
 </div>
-](https://github.com/alvarohortelanofernandez/relance)
