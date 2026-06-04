@@ -9,15 +9,13 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-<a href="https://github.com/alvarohortelanofernandez" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-alvarohortelanofernandez-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D0D0D" />
-</a>
-&nbsp;
 <a href="https://www.linkedin.com/in/alvarohortelanofernandez/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-alvarohortelanofernandez-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/LinkedIn-alvarohortelanofernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Ubicaci%C3%B3n-C%C3%B3rdoba%2C%20Espa%C3%B1a-00FF41?style=for-the-badge&logo=googlemaps&logoColor=00FF41&labelColor=0D0D0D" />
+<a href="mailto:alvarohortelanofernandez@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-alvarohortelanofernandez-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+</a>
 
 <br/>
 
@@ -27,7 +25,7 @@
 
 ## Sobre mí
 
-Desarrollador Full-Stack de **Córdoba** con experiencia en proyectos web modernos usando **React**, **Angular** y **TypeScript**. Apasionado por el mundo **DevOps** y la automatización, con conocimientos en **Docker**, **Bash/Linux** y despliegue de aplicaciones.
+Desarrollador Full-Stack con experiencia en proyectos web modernos usando **React**, **Angular** y **TypeScript**. Apasionado por el mundo **DevOps** y la automatización, con conocimientos en **Docker**, **Bash/Linux** y despliegue de aplicaciones.
 
 Actualmente ampliando conocimientos en **Python** y arquitecturas cloud, buscando siempre construir soluciones limpias, escalables y bien estructuradas.
 
@@ -94,7 +92,9 @@ Actualmente ampliando conocimientos en **Python** y arquitecturas cloud, buscand
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <img src="https://img.shields.io/badge/-TFG%20%E2%80%94%20Proyecto%20Principal-00FF41?style=flat-square&logoColor=0D0D0D" />
+        <a href="https://github.com/alvarohortelanofernandez/relance">
+          <img src="https://img.shields.io/badge/-Relance%20%E2%80%94%20TFG-00FF41?style=flat-square&logoColor=0D0D0D" />
+        </a>
       </h3>
       <p>Proyecto de Fin de Grado desarrollado con <strong>React</strong>, <strong>TypeScript</strong> y <strong>Supabase</strong> como backend-as-a-service con PostgreSQL.</p>
       <p>
@@ -102,11 +102,6 @@ Actualmente ampliando conocimientos en **Python** y arquitecturas cloud, buscand
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/alvarohortelanofernandez/relance">
-          <img src="https://img.shields.io/badge/Ver%20en%20GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-        </a>
       </p>
     </td>
     <td width="50%" valign="top">
