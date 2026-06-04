@@ -133,8 +133,7 @@ Actualmente ampliando conocimientos en **Python** y arquitecturas cloud, buscand
 
 <br/><br/>
 
-<!-- <img src="https://streak-stats.demolab.com/?user=alvarohortelanofernandez&theme=chartreuse-dark&border=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&background=0D0D0D" /> -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=alvarohortelanofernandez&theme=dark&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&background=0D0D0D&sideNums=ffffff&currStreakNum=ffffff&dates=888888" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alvarohortelanofernandez&theme=chartreuse-dark&border=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&background=0D0D0D" />
 
 </div>
 
