@@ -1,14 +1,18 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=%C3%81lvaro%20Hortelano%20Fern%C3%A1ndez&fontSize=42&fontColor=0D0D0D&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DevOps%20Enthusiast&descSize=16&descAlignY=58&descColor=0D0D0D" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=%C3%81lvaro%20Hortelano%20Fern%C3%A1ndez&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DevOps%20Enthusiast&descSize=16&descAlignY=58&descColor=ffffff" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=React+%2F+Angular+%2F+TypeScript;Supabase+%7C+PostgreSQL+%7C+Docker;Full-Stack+Developer+en+formaci%C3%B3n;Clean+Code+%7C+SOLID+%7C+DevOps+Mindset" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=React+%2F+Angular+%2F+TypeScript;Supabase+%7C+PostgreSQL+%7C+Docker;Full-Stack+Developer+en+formaci%C3%B3n;Clean+Code+%7C+SOLID+%7C+DevOps+Mindset" />
 
 <br/>
 
 <!-- SOCIAL BADGES -->
+<a href="https://alvarohortelanofernandez.github.io/porfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-alvarohortelanofernandez-6366F1?style=for-the-badge&logoColor=white&labelColor=6366F1" />
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/alvarohortelanofernandez/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-alvarohortelanofernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
 </a>
@@ -93,7 +97,7 @@ Actualmente ampliando conocimientos en **Python** y arquitecturas cloud, buscand
     <td width="50%" valign="top">
       <h3>
         <a href="https://github.com/alvarohortelanofernandez/relance">
-          <img src="https://img.shields.io/badge/-Relance%20%E2%80%94%20TFG-00FF41?style=flat-square&logoColor=0D0D0D" />
+          <img src="https://img.shields.io/badge/-Relance%20%E2%80%94%20TFG-6366F1?style=flat-square&logoColor=ffffff" />
         </a>
       </h3>
       <p>Proyecto de Fin de Grado desarrollado con <strong>React</strong>, <strong>TypeScript</strong> y <strong>Supabase</strong> como backend-as-a-service con PostgreSQL.</p>
@@ -122,13 +126,13 @@ Actualmente ampliando conocimientos en **Python** y arquitecturas cloud, buscand
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alvarohortelanofernandez&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00FF41&title_color=00FF41&icon_color=00FF41&bg_color=0D0D0D&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alvarohortelanofernandez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366F1&title_color=6366F1&icon_color=6366F1&bg_color=0D0B1A&text_color=ffffff" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alvarohortelanofernandez&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00FF41&title_color=00FF41&bg_color=0D0D0D&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alvarohortelanofernandez&layout=compact&langs_count=8&theme=tokyonight&border_color=6366F1&title_color=6366F1&bg_color=0D0B1A&text_color=ffffff" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alvarohortelanofernandez&theme=chartreuse-dark&border=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&background=0D0D0D" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alvarohortelanofernandez&theme=tokyonight&border=6366F1&ring=6366F1&fire=FF6600&currStreakLabel=6366F1&background=0D0B1A" />
 
 </div>
 
@@ -136,6 +140,6 @@ Actualmente ampliando conocimientos en **Python** y arquitecturas cloud, buscand
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer&text=Disponible%20para%20colaborar&fontSize=20&fontColor=0D0D0D&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Disponible%20para%20colaborar&fontSize=20&fontColor=ffffff&fontAlignY=65" />
 
 </div>
